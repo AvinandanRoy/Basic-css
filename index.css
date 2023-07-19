@@ -10,3 +10,10 @@ li{
     color: brown;
     font-size: 30px;
 }
+
+.paragraph{
+    margin: 100px 200px 0px 200px;
+    font-size: 20px;
+    color: rgba(245, 6, 18, 0.808);
+    background-color: blanchedalmond;
+}
