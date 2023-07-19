@@ -1,0 +1,12 @@
+#first{
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 50px;
+}
+
+li{
+    padding-left: 120px;
+    text-decoration: none;
+    color: brown;
+    font-size: 30px;
+}
