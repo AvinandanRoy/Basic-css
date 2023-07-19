@@ -17,3 +17,8 @@ li{
     color: rgba(245, 6, 18, 0.808);
     background-color: blanchedalmond;
 }
+
+span{
+    color: rgba(2, 6, 245, 0.945);
+    font-size: 25px;
+}
